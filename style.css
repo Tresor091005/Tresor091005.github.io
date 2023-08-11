@@ -1,0 +1,15 @@
+.w-40 {
+    width: 40%;
+}
+
+.w-65 {
+    width: 65%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+#youtube {
+    background: url("img/youtube-mg.jpg") cover ;
+}
